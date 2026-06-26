@@ -1,5 +1,14 @@
+@font-face {
+    src: url(fonts/Roboto-VariableFont_wdth,wght);
+    font-family: Roboto-VariableFont_wdth,wght;
+}
+@font-face {
+    src: url(fonts/Roboto-Italic-VariableFont_wdth,wght);
+    font-family: Roboto-Italic-VariableFont_wdth,wght;
+}
+
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Roboto-VariableFont_wdth,wght;
 }
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
